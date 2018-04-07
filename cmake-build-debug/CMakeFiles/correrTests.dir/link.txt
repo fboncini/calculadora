@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/correrTests.dir/tests/test_instruccion.cpp.o CMakeFiles/correrTests.dir/tests/test_programa.cpp.o  -o correrTests.exe -Wl,--out-implib,libcorrerTests.dll.a -Wl,--major-image-version,0,--minor-image-version,0 tests/google-test/libgtest.a tests/google-test/libgtest_main.a tests/google-test/libgtest.a 

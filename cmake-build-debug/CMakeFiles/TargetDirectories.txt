@@ -1,0 +1,15 @@
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/install/strip.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/install/local.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/install.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/list_install_components.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/CMakeFiles/correrTests.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/install/strip.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/install/local.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/install.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/list_install_components.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/gtest_main.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/fernando/Downloads/tp1_base/tp1_base/cmake-build-debug/tests/google-test/CMakeFiles/gtest.dir
